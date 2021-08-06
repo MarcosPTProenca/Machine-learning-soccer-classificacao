@@ -16,7 +16,7 @@ To get the data to train and to test my machine learning models I did web scrapi
 
 ![image](https://user-images.githubusercontent.com/88220952/128444457-9269b06a-1cf5-44bc-ac9c-fc7e35a218d9.png)
 
-> ## Data for train and test
+> ## Data for training and testing
 
 train = 70% of data and test = 30%
 
